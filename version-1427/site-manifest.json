@@ -1,0 +1,19 @@
+{
+  "site_name": "国产高清影视",
+  "movie_count": 2000,
+  "category_count": 8,
+  "category_distribution": {
+    "今日推荐": 250,
+    "热播影院": 250,
+    "剧集追新": 250,
+    "大陆港台": 250,
+    "悬疑犯罪": 250,
+    "爱情喜剧": 250,
+    "动作奇幻": 250,
+    "海外动漫": 250
+  },
+  "detail_pages": 2000,
+  "hls_sources_reused_from_uploaded_js": 20,
+  "baidu_analytics_inserted": true,
+  "note": "HTML/CSS/JS generated in readable formatted style. Top-level 1.jpg through 150.jpg are referenced as cover images when provided."
+}
